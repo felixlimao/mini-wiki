@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(97, 97, 243);
+}
+
+img {
+  width: 350px;
+  border-radius: 25px;
+}
+
+h1 {
+  color: rgb(34, 34, 110);
+}/*# sourceMappingURL=style.css.map */
